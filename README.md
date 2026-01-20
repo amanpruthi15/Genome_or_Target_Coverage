@@ -1,5 +1,5 @@
 # Plot target coverage
-Calculate and plot target coverage using HS Metrics obtained using GATK CollectHSMetrics on BAM files.
+Construct coverage efficiency and distribution plots.
 
 **Steps:**
 1. Coverage – Calculate HSMetrics using GATK tools on BAM/SAM files
